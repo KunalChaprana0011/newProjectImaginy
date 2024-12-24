@@ -10,8 +10,8 @@ const IBMPlex = IBM_Plex_Sans({ subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Imaginify",
-  description: "AI-powered image generator",
+  title: "Imaginy",
+  description: "An AI-powered image generator",
 };
 
 export default function RootLayout({
